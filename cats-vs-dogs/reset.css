@@ -152,13 +152,13 @@ body {
 			text-decoration:none;
 		}
 
-		.left {
+		.left {font-family: Georgia;
 			padding-top: 15px;
 			float: left;
 			margin-left: 15px;
 		}
 
-		.right {
+		.right {font-family: Georgia;
 			padding-top: 15px;
 				float:right;
 				margin-right: 15px;
