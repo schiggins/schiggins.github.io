@@ -116,10 +116,11 @@ body {
 		margin-bottom: 4%;
 		}
 #dogs p {
-		margin-top: 10%; 
+		margin-top: 10%;
+		font-size:12px; 
 		}
 #cats p {
-		margin-top: 10%;id
+		margin-top: 10%;
 		font-size: 14px; 
 		}			
 h2 {
