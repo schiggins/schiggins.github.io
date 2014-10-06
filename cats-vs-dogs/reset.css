@@ -116,7 +116,10 @@ body {
 		}
 #dogs p {
 		margin-top: 5%; 
-		}		
+		}
+#cats p {
+		margin-top: 5%; 
+		}			
 h2 {
 			font-size: 1.5em;
 			float: left;
