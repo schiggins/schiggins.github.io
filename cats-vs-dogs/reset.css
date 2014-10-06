@@ -146,7 +146,8 @@ body {
 			bottom:0px;
 		}
 
-		footer a{
+		footer a{ 
+			font-family: Georgia;
 			color:red;
 			text-decoration:none;
 		}
