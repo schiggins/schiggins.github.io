@@ -63,7 +63,7 @@ img.display {
 		display: inline;
 		list-style: none;
 		margin: 0;
-		padding: .5;
+		padding: 0;
 		text-transform: uppercase;
 		text-decoration: none;
 		font-family: Georgia;
@@ -87,7 +87,21 @@ li {
 		color: #000;
 		font-size: 1em;
 		}		
-	
+body {
+		position: relative;
+		font-family: serif;
+		font-style: Georgia, serif;
+		line-height: 1.5em;
+		font-size: 1em;
+		}
+#dogs {
+		display: inline;
+		font-size: 1em;
+		float: right;
+		margin-top: 5%;
+		margin-left: 5%;
+		margin-bottom: 4%;
+		}	
 
 
 
