@@ -114,7 +114,7 @@ body {
 				font-size: 1.5em;
 				float: left;
 				font-weight: bold;
-				font-family: serif;
+				font-family: Georgia;;
 				margin-bottom: .5em;
 				text-align: center;
 				display: block; /*--For inline elements only--*/
@@ -123,6 +123,7 @@ body {
 			float:left;
 			font-size:14px;
 			line-height:1.2em;
+			font-family: Georgia;
 			text-align:left;
 			padding: 12px;
 			width:400px;
