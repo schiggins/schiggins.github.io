@@ -94,6 +94,9 @@ body {
 		font-style: Georgia, serif;
 		line-height: 1.5em;
 		font-size: 1em;
+	    margin:0 auto;
+	    width:900px;
+	    height:900px;
 		}
 #cats {
 		margin-top: 5%;
