@@ -94,6 +94,22 @@ body {
 		line-height: 1.5em;
 		font-size: 1em;
 		}
+#cats {
+		margin-top: 5%;
+		display: inline;
+		font-size: 1em;
+		float: left;
+		margin-left: 5%;
+		margin-bottom: 4%;
+		}
+#dogs {
+		display: inline;
+		font-size: 1em;
+		float: right;
+		margin-top: 5%;
+		margin-left: 5%;
+		margin-bottom: 4%;
+		}
 		h2 {
 				font-size: 1.5em;
 				float: left;
@@ -104,7 +120,7 @@ body {
 				display: block; /*--For inline elements only--*/
 				}
 		#cats{
-			float:right;
+			float:left;
 			font-size:14px;
 			line-height:1.2em;
 			text-align:left;
