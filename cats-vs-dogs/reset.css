@@ -111,6 +111,15 @@ body {
 #pug-pic {
 		float:left;
 		}
+h2 {
+		font-size: 1.5em;
+		float: left;
+		font-weight: bold;
+		font-family: serif;
+		margin-bottom: .5em;
+		text-align: center;
+		display: block; /*--For inline elements only--*/
+		}
 	
 
 
