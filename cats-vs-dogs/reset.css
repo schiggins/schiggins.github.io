@@ -68,7 +68,25 @@ img.display {
 		text-decoration: none;
 		font-family: Georgia;
 		text-align: center;
+	    }
+ul {
+		border-top: 3px solid black;
+		border-bottom: 6px solid black;
 		}
+
+li {
+		font-weight: bold;
+		display: inline;
+		}
+
+.menu a {
+		display: inline-block;
+		text-align: center;
+		padding: 20px;
+		text-decoration: none;
+		color: #000;
+		font-size: 1em;
+		}		
 	
 
 
