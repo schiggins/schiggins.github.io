@@ -136,30 +136,30 @@ body {
 			padding: 12px;
 			width:400px;
 		}
+
 		footer {
-				font-size: small;
-				clear: both;
-				border-top:3px solid black;
-				bottom:0px;
-			}
+			font-size: small;
+			clear: both;
+			border-top:3px solid black;
+			bottom:0px;
+		}
 
-			footer a{
-				color:red;
-				text-decoration:none;
-			}
+		footer a{
+			color:red;
+			text-decoration:none;
+		}
 
-			.left {
-				padding-top: 15px;
-				float: left;
-				margin-left: 15px;
-			}
+		.left {
+			padding-top: 15px;
+			float: left;
+			margin-left: 15px;
+		}
 
-			.right {
-				padding-top: 15px;
-					float:right;
-					margin-right: 15px;
-			}
-
+		.right {
+			padding-top: 15px;
+				float:right;
+				margin-right: 15px;
+		}
 			
 	
 
