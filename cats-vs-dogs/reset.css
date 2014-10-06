@@ -111,6 +111,12 @@ h2 {
 		margin-left: 5%;
 		margin-bottom: 4%;
 		}
+#cats p {
+		text-align: left;
+		display: block; /*--For inline elements only--*/
+		max-width: 40%;
+		padding: 20px;
+		}
 #dogs {
 		display: inline;
 		font-size: 1em;
@@ -124,6 +130,21 @@ h2 {
 		display: block; /*--For inline elements only--*/
 		max-width: 40%;
 		padding: 20px;
+		}
+#pussycat {
+		float:left;
+		}
+#koda{
+		float:left;
+		}
+.post-footer {
+		font-size: small;
+		border-bottom:3px solid black;
+		bottom:0px;
+		}
+.post-footer a {
+		text-decoration: none;
+		color: #000;
 		}
 
 			
