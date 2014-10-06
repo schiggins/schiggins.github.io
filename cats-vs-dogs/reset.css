@@ -121,14 +121,14 @@ body {
 		margin-top: 5%; 
 		}			
 h2 {
-			font-size: 1.5em;
-			float: left;
-			font-weight: bold;
-			font-family: Georgia;;
-			margin-bottom: .5em;
-			text-align: center;
-			display: block; /*--For inline elements only--*/
-			}
+		font-size: 1.5em;
+		float: left;
+		font-weight: bold;
+		font-family: Georgia;;
+		margin-bottom: ;
+		text-align: center;
+		display: block; /*--For inline elements only--*/
+		}
 		#cats{
 			float:left;
 			font-size:14px;
