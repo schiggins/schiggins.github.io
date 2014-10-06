@@ -102,12 +102,6 @@ body {
 		margin-left: 5%;
 		margin-bottom: 4%;
 		}
-#cats p {
-		text-align: left;
-		display: block; /*--For inline elements only--*/
-		max-width: 40%;
-		padding: 20px;
-		}
 #dogs {
 		display: inline;
 		font-size: 1em;
@@ -115,18 +109,6 @@ body {
 		margin-top: 5%;
 		margin-left: 5%;
 		margin-bottom: 4%;
-		}
-#dogs p {
-		text-align: left;
-		display: block; /*--For inline elements only--*/
-		max-width: 40%;
-		padding: 20px;
-		}
-#pussycat {
-		float:left;
-		}
-#koda{
-		float:left;
 		}
 		h2 {
 				font-size: 1.5em;
