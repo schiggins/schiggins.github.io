@@ -73,6 +73,10 @@ text-decoration: none;}
 
 
 #main-menu {
+	position:absolute;
+	float:right;
+	display: inline;
+	list-style: none;
 	margin: 0;
 	width:100%;
 	text-transform: uppercase;
