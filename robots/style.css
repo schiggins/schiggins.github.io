@@ -84,6 +84,7 @@ table {
 }
 
 #page { float:left;
+	margin-right:40px;
 }
 
 #page h1 {
