@@ -111,10 +111,12 @@ text-decoration: none;}
 	color: #fff;
 	}
 
-#page {clear:left;
+#page {
+	clear:left;
 	float:left;
 	margin-left:20%;
-margin-top:5%;}
+	margin-top:5%;
+}
 
 #page h1 {
 	font-size: 30px;
@@ -143,17 +145,13 @@ margin-top:5%;}
 	width:400px;
 }
 
-#main-menu {
-	padding-left: 20%;
-	padding-right: 20%;
-}
-
-
-#sidebar {float:left;
+#sidebar {
+float:left;
 padding-top: 50px;
 margin-left:5%;
 width:300px;
-margin-top:5%;}
+margin-top:5%;
+}
 
 #sidebar h1 {
 	font-size: 16px;
@@ -163,7 +161,6 @@ margin-top:5%;}
 	font-family: sans-serif;
 	font-weight: bold;
 	color: SaddleBrown;
-
 }
 
 #sidebar a {
@@ -171,10 +168,11 @@ margin-top:5%;}
 	font-family: sans-serif;
 	color: SaddleBrown;
 	text-decoration: none;
-	
 }
 
-li{line-height:20px;}
+li {
+line-height:15px;
+}
 
 #footer-wrapper {
 	padding-left: 20%;
