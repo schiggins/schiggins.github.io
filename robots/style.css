@@ -178,6 +178,7 @@ line-height:15px;
 	padding-right: 20%;
 	background-color: SaddleBrown;
 	margin-top:50%;	
+	float:left;
 }
 
 #footer-wrapper h1 {
@@ -198,7 +199,7 @@ line-height:15px;
 	color: white;
 }
 
-#footer-follow h1{
+#footer-follow h1 {
 	float: left;
 }
 
