@@ -193,6 +193,7 @@ line-height:15px;
 #footer-wrapper p {
 	font-size: 11.5px;
 	font-family: sans-serif;
+	width:100px;
 }
 
 #footer-follow a {
