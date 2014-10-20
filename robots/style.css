@@ -84,6 +84,7 @@ table {
 }
 
 #page { float:left;
+	display: inline-block;
 
 }
 
