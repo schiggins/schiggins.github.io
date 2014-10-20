@@ -194,6 +194,7 @@ line-height:15px;
 #footer-wrapper p {
 	font-size: 10px;
 	font-family: sans-serif;
+	line-height: 10px;
 	width:150px;
 	color: white;
 }
