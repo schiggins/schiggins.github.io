@@ -70,7 +70,8 @@ table {
 }
 
 header #top-nav a {
-	color: saddlebrown;}
+	color: saddlebrown;
+text-decoration: none;}
 
 #main-menu {
 	padding-left: 20%;
