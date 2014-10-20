@@ -57,7 +57,7 @@ body {
 	width: 90%;
 }
 
-.header {
+#site-header {
 	padding-left: 20%;
 	padding-right: 20%;
 	background-color: beige;
