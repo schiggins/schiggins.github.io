@@ -84,7 +84,8 @@ table {
 }
 
 #page {clear:left;
-	float:left;}
+	float:left;
+	margin-left:10%;}
 
 #page h1 {
 	font-size: 30px;
