@@ -136,6 +136,7 @@ table {
 	font-family: sans-serif;
 	color: SaddleBrown;
 	text-decoration: none;
+	float:left;
 }
 
 #footer-wrapper {
