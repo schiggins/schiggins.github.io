@@ -85,7 +85,7 @@ table {
 
 #page {
 	clear: left;
-	margin-left: 10%;
+	margin-left: 20%;
 }
 
 #page h1 {
@@ -112,6 +112,7 @@ table {
 	padding-bottom: .75em;
 	line-height: 1.15em;
 	font-family: sans-serif;
+	width:400px;
 }
 
 #main-menu {
