@@ -85,11 +85,6 @@ text-decoration: none;}
 	text-align: center;
 	background-color: saddlebrown;
 }
-
-#main-menu li {
-    display: inline;
-	float:left;
-}
 	
 #main-menu {
 	padding-left: 20%;
@@ -97,6 +92,11 @@ text-decoration: none;}
 	padding-bottom:1%;
 	background-color: SaddleBrown;
 	}	
+	
+#main-menu li {
+	display: inline;
+	float:left;
+	}
 
 #main-menu a {
 	display: inline-block;
