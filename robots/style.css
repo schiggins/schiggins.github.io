@@ -92,12 +92,12 @@ text-decoration: none;}
 	padding-top:1%;
 	padding-bottom:1%;
 	background-color: SaddleBrown;
-	margin-bottom:10%;
 	}	
 	
 #main-menu li {
 	display: inline;
 	float:left;
+	margin-bottom:10%;
 	}
 
 #main-menu a {
