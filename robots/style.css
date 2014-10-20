@@ -92,6 +92,7 @@ text-decoration: none;}
 	padding-top:1%;
 	padding-bottom:1%;
 	background-color: SaddleBrown;
+	margin-bottom:10%;
 	}	
 	
 #main-menu li {
@@ -113,8 +114,7 @@ text-decoration: none;}
 
 #page {clear:left;
 	float:left;
-	margin-left:20%;
-margin-top:20%;}
+	margin-left:20%;}
 
 #page h1 {
 	font-size: 30px;
