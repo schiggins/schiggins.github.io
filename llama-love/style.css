@@ -52,4 +52,48 @@ table {
 
 /* -----------------END RESET---------------- */
 
+body {
+	position: relative;
+	line-height: 1.5em;
+	font-size: 1em;
+	margin:0 auto;
+	width:80%;
+	font-family:sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+h2{
+	font-size: .75em;
+	color: gray;
+}
+
+img {
+	float:left;
+	margin:10px;
+}
+
+#first-para {
+	float:left;
+	width: 450px;
+	margin: 100px, 25px, 100px, 180px;
+	font-size: 14px;
+	padding:15px;
+	line-height:20px;
+}
+
+#second-para {
+	float:left;
+	width: 450px;
+	margin: 100px, 25px, 100px, 180px;
+	font-size: 14px;
+	padding:15px;
+	line-height:20px;
+}
+
 

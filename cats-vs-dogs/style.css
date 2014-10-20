@@ -1,0 +1,205 @@
+
+
+/* Meyer Reset */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+	
+
+/* Center Content */
+
+img.display {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 5%;
+	}
+
+#top-menu {
+		display: inline;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		text-transform: uppercase;
+		text-decoration: none;
+		font-family: Georgia;
+		text-align: center;
+		font-size: 24px;
+	    }
+ul {
+		border-top: 4px solid black;
+		border-bottom: 4px solid black;
+		}
+
+li {
+		font-weight: bold;
+		display: inline;
+		}
+
+.menu a {
+		display: inline-block;
+		text-align: center;
+		padding: 20px;
+		text-decoration: none;
+		color: #000;
+		font-size: 1em;
+		}		
+body {
+		position: relative;
+		font-family: serif;
+		font-style: Georgia, serif;
+		line-height: 1.5em;
+		font-size: 1em;
+	    margin:0 auto;
+	    width:900px;
+	    height:900px;
+		}
+#cats {
+		margin-top: 5%;
+		display: inline;
+		font-size: 1em;
+		float: left;
+		margin-left: 0%;
+		margin-bottom: 4%;
+		}
+#dogs {
+		display: inline;
+		font-size: 1em;
+		float: right;
+		margin-top: 5%;
+		margin-left: 5%;
+		margin-bottom: 4%;
+		}
+#dogs p {
+		margin-top: 10%;
+		font-size:12px; 
+		}
+#cats p {
+		margin-top: 10%;
+		font-size:12px; 
+		}			
+h2 {
+		font-size: 1.5em;
+		float: left;
+		font-weight: bold;
+		font-family: Georgia;;
+		margin-top: 5%;
+		text-align: center;
+		display: block; /*--For inline elements only--*/
+		}
+		#cats{
+			float:left;
+			font-size:14px;
+			line-height:1.2em;
+			font-family: Georgia;
+			text-align:left;
+			padding: 12px;
+			width:400px;
+		}
+
+		#dogs{
+			float:left;
+			font-size:14px;
+			line-height:1.2em;
+			font-family: Georgia;
+			text-align:left;
+			padding: 12px;
+			width:400px;
+		}
+
+		footer {
+			font-size: small;
+			clear: both;
+			border-top:3px solid black;
+			bottom:0px;
+		}
+
+		footer a{ 
+			font-family: Georgia;
+			color:red;
+			text-decoration:none;
+		}
+
+		.left {font-family: Georgia;
+			padding-top: 15px;
+			float: left;
+			margin-left: 15px;
+		}
+
+		.right {font-family: Georgia;
+			padding-top: 15px;
+				float:right;
+				margin-right: 15px;
+		}
+			
+	
+
+
+
+
+.centered { 
+  margin:0 auto;
+  width:960px;
+}
+
+
+/* Clearfix */
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix { display: inline-block; }
+html[xmlns] .clearfix { display: block; }
+* html .clearfix { height: 1%; }
+
+
