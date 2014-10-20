@@ -83,7 +83,8 @@ table {
 	font-weight: bold;
 }
 
-#page {float:left;}
+#page {clear:left;
+	float:left;}
 
 #page h1 {
 	font-size: 30px;
