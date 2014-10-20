@@ -82,9 +82,9 @@ img {
 #first-article {
 	float:left;
 	width: 450px;
-	margin: 200px, 25px, 100px, 180px;
+	margin: 100px, 25px, 100px, 180px;
 	font-size: 13px;
-	padding:15px;
+	padding:30px;
 	line-height:20px;
 }
 
