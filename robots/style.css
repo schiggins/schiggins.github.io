@@ -119,6 +119,7 @@ table {
 	padding-left: 20%;
 	padding-right: 20%;
 }
+#sidebar {float:left;}
 
 #sidebar h1 {
 	font-size: 16px;
@@ -128,7 +129,6 @@ table {
 	font-family: sans-serif;
 	font-weight: bold;
 	color: SaddleBrown;
-	float:left;
 }
 
 #sidebar a {
