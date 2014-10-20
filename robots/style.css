@@ -85,7 +85,7 @@ table {
 
 #page {
 	clear: left;
-	width: 420px;
+	margin-left: 10%;
 }
 
 #page h1 {
