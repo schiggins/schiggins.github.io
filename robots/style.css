@@ -86,15 +86,10 @@ text-decoration: none;}
 	background-color: saddlebrown;
 }
 
-#main-menu ul {
-	margin-left:250px;
-}
-
 #main-menu li {
     display: inline;
 	float:left;
 }
-	
 	
 #main-menu {
 	padding-left: 20%;
