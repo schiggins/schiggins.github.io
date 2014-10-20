@@ -83,10 +83,7 @@ table {
 	font-weight: bold;
 }
 
-#page {
-	width: 420px;
-
-}
+#page {float:left;}
 
 #page h1 {
 	font-size: 30px;
