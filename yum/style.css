@@ -101,10 +101,16 @@ margin-right: 1%;}
 #list3
 {float:left;}
 
-#prep
+#prep1
 {float:left;
 margin-left:5%;
-width: 450px;
+width: 250px;
+}
+
+#prep1
+{float:left;
+margin-left:5%;
+width: 250px;
 }
 
 p {clear:both;
