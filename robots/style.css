@@ -69,6 +69,16 @@ table {
 	color: SaddleBrown;
 }
 
+header #top-nav a {
+	color: saddlebrown;
+	font-size: 12px;
+	text-decoration: none;
+	position: absolute;
+	right: 100px;
+	top: 10px;
+	float: right;
+	padding:10px;
+
 #main-menu {
 	padding-left: 20%;
 	padding-right: 20%;
