@@ -97,7 +97,6 @@ text-decoration: none;}
 #main-menu li {
 	display: inline;
 	float:left;
-	margin-bottom:10%;
 	}
 
 #main-menu a {
@@ -114,7 +113,8 @@ text-decoration: none;}
 
 #page {clear:left;
 	float:left;
-	margin-left:20%;}
+	margin-left:20%;
+margin-bottom:1%;}
 
 #page h1 {
 	font-size: 30px;
