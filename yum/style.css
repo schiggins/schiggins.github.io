@@ -76,6 +76,7 @@ margin-top:2%;
 h3 {
 	font-style: italic;
 	margin-bottom: 1%;
+	margin-left:1%;
 }
 
 ul {
@@ -85,10 +86,12 @@ ul {
 
 #list1
 {float:left;
-	margin-right: 1%;}
+	margin-right: 1%;
+	margin-left:1%;}
 
 #list2
-{float:left;}
+{float:left;
+margin-right: 1%;}
 
 #list3
 {float:left;}
