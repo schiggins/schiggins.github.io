@@ -83,7 +83,7 @@ table {
 	font-weight: bold;
 }
 
-#page {
+#page { float:left;
 	margin-left: 20%;
 }
 
