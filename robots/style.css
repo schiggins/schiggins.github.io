@@ -121,7 +121,8 @@ table {
 
 #sidebar {float:left;
 padding-top: 50px;
-margin-left:5%;}
+margin-left:5%;
+width:300px;}
 
 #sidebar h1 {
 	font-size: 16px;
