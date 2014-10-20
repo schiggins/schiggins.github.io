@@ -84,7 +84,8 @@ ul {
 }
 
 #list1
-{float:left;}
+{float:left;
+	margin-right: 10px;}
 
 #list2
 {float:left;}
