@@ -55,6 +55,7 @@ table {
 #site-header {
 	padding-left: 20%;
 	padding-right: 20%;
+	padding-top:1%;
 	background-color: beige;
 }
 
@@ -79,6 +80,7 @@ text-decoration: none;}
 	
 #main-menu ul li {
 	display: inline;
+	float:left;
 	}
 
 #main-menu a {
