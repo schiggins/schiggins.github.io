@@ -58,7 +58,7 @@ body{
 
 header h1 {
 	margin-left:2%; 
-	float: right;
+	text-align: right;
 	color: #000;
 	font-size: 50px;
 	font-family: sans-serif;
