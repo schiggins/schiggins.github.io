@@ -190,6 +190,12 @@ line-height:15px;
 	width:20%;
 }
 
+#site-footer {
+	width:100%;
+	float:left;
+	padding:2% 10% 5% 10%;
+}
+
 .footer-head {
 	padding-bottom:5px;
 	color:silver;
