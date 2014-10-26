@@ -158,11 +158,41 @@ line-height:15px;
 }
 
 #footer-wrapper {
+	background-color: SaddleBrown;
+	margin-top:50%;	
 	float:left;
 	height:100%;
 	width:100%;
-	background-color:saddlebrown;
+	}
 }
+
+#footer-wrapper h1 {
+	font-size: 16px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: beige;
+}
+
+#footer-wrapper p {
+	font-size: 10px;
+	font-family: sans-serif;
+	line-height: 10px;
+	width:150px;
+	color: white;
+}
+
+#footer-follow {
+	padding-left:45%;
+	float:left;
+	width:20%;
+}
+
+
+
+
 
 #site-footer {
 	width:100%;
