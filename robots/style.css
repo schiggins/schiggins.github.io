@@ -181,3 +181,9 @@ line-height:15px;
 	width:150px;
 	color: white;
 }
+
+#footer-follow {
+	padding-left:45%;
+	float:left;
+	width:20%;
+}
