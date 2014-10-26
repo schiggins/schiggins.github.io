@@ -181,3 +181,22 @@ line-height:15px;
 	width:150px;
 	color: white;
 }
+
+#footer-contact {
+	float:left;
+	width:15%;
+}
+
+#footer-follow {
+	padding-left:45%;
+	float:left;
+	width:20%;
+}
+
+.contact-us {
+	color:silver;
+}
+
+.button {
+	float:left;
+}
