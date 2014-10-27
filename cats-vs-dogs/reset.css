@@ -104,7 +104,6 @@ body {
 		}
 #cats {
 		margin-top: 5%;
-		display: inline;
 		font-size: 14px;
 		line-height:1.2em;
 		font-family: Georgia;
@@ -113,8 +112,7 @@ body {
 		margin-left: 10%;
 		margin-bottom: 4%;
 		text-align:left;
-		padding: 12px;
-		width:400px;
+		width:45%;
 		}
 
 #dogs {	font-size: 14px;
@@ -125,7 +123,7 @@ body {
 		line-height:1.2em;
 		font-family: Georgia;
 		text-align:left;
-		width:400px;
+		width:45%;
 		}
 
 #dogs p {
