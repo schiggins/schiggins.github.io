@@ -117,9 +117,7 @@ body {
 		width:400px;
 		}
 
-#dogs {
-		display: inline;
-		font-size: 14px;
+#dogs {	font-size: 14px;
 		float: left;
 		margin-top: 5%;
 		margin-left: 5%;
@@ -127,7 +125,6 @@ body {
 		line-height:1.2em;
 		font-family: Georgia;
 		text-align:left;
-		padding: 12px;
 		width:400px;
 		}
 
