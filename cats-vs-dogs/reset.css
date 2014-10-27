@@ -60,7 +60,7 @@ img.display {
 	margin-top: 5%;
 	}
 
-	img {max-width:75%;}
+	img {max-width:100%;}
 
 #top-menu {
 		display: inline;
@@ -98,7 +98,7 @@ body {
 		line-height: 1.5em;
 		font-size: 1em;
 	    margin:0 auto;
-	    width:75%;
+	    width:100%;
 		}
 #cats {
 		margin-top: 5%;
