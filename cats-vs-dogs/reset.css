@@ -60,6 +60,8 @@ img.display {
 	margin-top: 5%;
 	}
 
+	img {max-width:100%;}
+
 #top-menu {
 		display: inline;
 		list-style: none;
