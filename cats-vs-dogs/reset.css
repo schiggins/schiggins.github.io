@@ -105,19 +105,32 @@ body {
 #cats {
 		margin-top: 5%;
 		display: inline;
-		font-size: 1em;
+		font-size: 14px;
+		line-height:1.2em;
+		font-family: Georgia;
+		text-align:left;
 		float: left;
 		margin-left: 10%;
 		margin-bottom: 4%;
+		text-align:left;
+		padding: 12px;
+		width:400px;
 		}
+
 #dogs {
 		display: inline;
-		font-size: 1em;
-		float: right;
+		font-size: 14px;
+		float: left;
 		margin-top: 5%;
 		margin-left: 5%;
 		margin-bottom: 4%;
+		line-height:1.2em;
+		font-family: Georgia;
+		text-align:left;
+		padding: 12px;
+		width:400px;
 		}
+
 #dogs p {
 		margin-top: 10%;
 		font-size:12px; 
