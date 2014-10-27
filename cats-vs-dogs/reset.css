@@ -60,8 +60,8 @@ img.display {
 	margin-top: 5%;
 	}
 
-	img{
-		max-width:75%;
+img {
+	max-width:75%;
 	}
 
 #top-menu {
@@ -134,25 +134,6 @@ h2 {
 		margin-top: 5%;
 		text-align: center;
 		display: block; /*--For inline elements only--*/
-		}
-		#cats{
-			float:left;
-			font-size:14px;
-			line-height:1.2em;
-			font-family: Georgia;
-			text-align:left;
-			padding: 12px;
-			width:400px;
-		}
-
-		#dogs{
-			float:left;
-			font-size:14px;
-			line-height:1.2em;
-			font-family: Georgia;
-			text-align:left;
-			padding: 12px;
-			width:400px;
 		}
 
 		footer {
