@@ -103,23 +103,23 @@ body {
 	    width:75%;
 		}
 #cats {
-		margin-top: 5%;
+		margin-top: 2%;
 		font-size: 14px;
 		line-height:1.2em;
 		font-family: Georgia;
 		text-align:left;
 		float: left;
-		margin-left: 10%;
-		margin-bottom: 4%;
+		margin-left: 2%;
+		margin-bottom: 2%;
 		text-align:left;
 		width:45%;
 		}
 
 #dogs {	font-size: 14px;
 		float: left;
-		margin-top: 5%;
-		margin-left: 5%;
-		margin-bottom: 4%;
+		margin-top: 2%;
+		margin-left: 2%;
+		margin-bottom: 2%;
 		line-height:1.2em;
 		font-family: Georgia;
 		text-align:left;
