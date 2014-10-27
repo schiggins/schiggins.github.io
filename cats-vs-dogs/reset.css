@@ -118,7 +118,7 @@ body {
 #dogs {	font-size: 14px;
 		float: left;
 		margin-top: 2%;
-		margin-left: 10%;
+		margin-left: 5%;
 		margin-bottom: 2%;
 		line-height:1.2em;
 		font-family: Georgia;
@@ -193,5 +193,10 @@ h2 {
 .clearfix { display: inline-block; }
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+
+@media screen and (max-width:750px){
+	#cats, #dogs {float:none; width:100%;}
+	
+}
 
 
