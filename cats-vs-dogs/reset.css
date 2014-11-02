@@ -168,6 +168,44 @@ h2 {
 				float:right;
 				margin-right: 15px;
 		}
+		
+		@media screen and (max-width:830px) {
+			article {
+				float:none;
+			}
+	
+			#dogs {
+				width:100%;
+			}
+	
+			#cats {
+				width:100%;
+			}
+		}
+
+		@media screen and (max-width:725px){
+	
+			body {
+				max-width:100%; 
+				width:100%; 
+				padding:10;
+			}
+	
+			nav {
+				padding-left:2%;
+			}
+	
+			li {
+				text-align:left;
+				float:none;
+				display:block;
+			}
+	
+			.bullet { 
+				display:none; 
+			}
+	
+		}
 			
 	
 
@@ -198,5 +236,7 @@ html[xmlns] .clearfix { display: block; }
 	#cats, #dogs {float:none; width:100%;}
 	
 }
+
+
 
 
