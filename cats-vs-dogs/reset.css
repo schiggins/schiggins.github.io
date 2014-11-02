@@ -157,52 +157,55 @@ h2 {
 		}
 
 		.left {font-family: Georgia;
-			padding-top: 15px;
+			padding-top: 5px;
 			float: left;
 			margin-left: 15px;
 		}
 
 		.right {font-family: Georgia;
-			padding-top: 15px;
+			padding-top: 5px;
 				float:right;
 				margin-right: 15px;
 		}
 		
+		
+		
+		
+		
 		@media screen and (max-width:830px) {
+			
+			#top-menu {
+				font-size: 14px;
+			}
+			
 			article {
 				float:none;
 			}
 	
 			#dogs {
-				width:100%;
+				width:75%;
 			}
 	
 			#cats {
-				width:100%;
+				width:75%;
 			}
 		}
 
-		@media screen and (max-width:725px){
+		@media screen and (max-width:400px){
 	
 			body {
-				max-width:100%; 
-				width:100%; 
+				max-width:75%; 
+				width:75%; 
 				padding:10;
 			}
 	
-			nav {
+			#top-menu {
 				padding-left:2%;
+				font-size: 8px;
 			}
-	
-			li {
-				text-align:left;
-				float:none;
-				display:block;
-			}
-	
-			.bullet { 
-				display:none; 
-			}
+			.menu a {
+					padding: 10px;
+				}
 	
 		}
 			
