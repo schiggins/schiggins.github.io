@@ -57,7 +57,7 @@ img.display {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-	margin-top: 5%;
+	margin-top: 1%;
 	}
 
 img {
@@ -103,26 +103,25 @@ body {
 	    width:75%;
 		}
 #cats {
-		margin-top: 2%;
 		font-size: 14px;
 		line-height:1.2em;
 		font-family: Georgia;
 		text-align:left;
 		float: left;
+		margin-top: 2%;
 		margin-left: 5%;
 		margin-bottom: 2%;
-		text-align:left;
 		width:45%;
 		}
 
 #dogs {	font-size: 14px;
+		line-height:1.2em;
+		font-family: Georgia;
+		text-align:left;
 		float: left;
 		margin-top: 2%;
 		margin-left: 5%;
 		margin-bottom: 2%;
-		line-height:1.2em;
-		font-family: Georgia;
-		text-align:left;
 		width:45%;
 		}
 
@@ -169,7 +168,7 @@ h2 {
 				margin-right: 15px;
 		}
 		
-		@media screen and (max-width:850px) {
+		@media screen and (max-width:830px) {
 			article {
 				float:none;
 			}
@@ -207,11 +206,6 @@ h2 {
 	
 		}
 			
-	
-
-
-
-
 .centered { 
   margin:0 auto;
   width:960px;
