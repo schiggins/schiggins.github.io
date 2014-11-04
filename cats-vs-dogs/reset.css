@@ -134,10 +134,10 @@ body {
 		font-size:12px; 
 		}			
 h2 {
+		font-family: 'league_gothicregular';
 		font-size: 1.5em;
 		float: left;
 		font-weight: bold;
-		font-family: Georgia;;
 		margin-top: 5%;
 		text-align: center;
 		display: block; /*--For inline elements only--*/
@@ -232,6 +232,19 @@ h2 {
 						bottom:0px;
 					}
 
+
+		}
+		
+		@font-face {
+		    font-family: 'league_gothicregular';
+		    src: url('fonts/leaguegothic-regular-webfont.eot');
+		    src: url('fonts/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		         url('fonts/leaguegothic-regular-webfont.woff2') format('woff2'),
+		         url('fonts/leaguegothic-regular-webfont.woff') format('woff'),
+		         url('fonts/leaguegothic-regular-webfont.ttf') format('truetype'),
+		         url('fonts/leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+		    font-weight: normal;
+		    font-style: normal;
 
 		}
 			
