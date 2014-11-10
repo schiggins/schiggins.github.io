@@ -53,15 +53,25 @@ table {
 
 /* Center Content */
 
-img.display {
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-	margin-top: 1%;
+
+
+header{ text-align: center;
+	width: 100%;}
+	
+	h1 {
+		font-size:7em;
+		font-family:'league_gothicregular';
+		margin-top:.5em;
+		margin-bottom:.2em;
 	}
 
-img {
-	max-width:75%;
+	span {
+		padding:2%;
+		color:silver;
+		font-size:.5em;
+		font-family:georgia;
+		font-weight:bold;
+		font-style:italic;
 	}
 
 #top-menu {
@@ -134,7 +144,7 @@ body {
 		font-size:12px; 
 		}			
 h2 {
-		font-family: 'league_gothicregular';
+		font-family: 'Georgia';
 		font-size: 1.5em;
 		float: left;
 		font-weight: bold;
