@@ -72,6 +72,7 @@ header{ text-align: center;
 		font-family:georgia;
 		font-weight:bold;
 		font-style:italic;
+		text-decoration: underline;
 	}
 
 #top-menu {
