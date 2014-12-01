@@ -125,9 +125,37 @@ body {
 
 #project6{width:80%;}
 
+#pg1prj1{margin-top:125px;
+font-family:bold,arial;
+margin-left:10%;
+margin-bottom:2%;
+}
 
+#project1a img{width:20%;
+	float:left;}
 
+#text1{ margin-left:10%; width:25%; display:inline-block;}
 
+#ey img{float:left;}
+
+#larger img {
+	float:right;
+	width:500px;
+	padding-right:150px;
+	margin-top:150px;
+}
+.bodytext {
+	position:fixed;
+	float:left;
+	width:350px;
+	font-family: helvetica;
+	font-size: 11px;
+	line-height: 15px;
+	padding-left:150px;
+	margin-top:150px;
+}
+
+.image-h-2 {}
 
 
 
