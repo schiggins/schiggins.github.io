@@ -3,6 +3,10 @@
  <head>
 	  <title>Stephanie Higgins</title>
 	  	  <link rel="stylesheet" href="final.css" type="text/css" media="screen">
+            <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    		<script src="js/modernizr.custom.70736.js"></script>
+    		<noscript><link rel="stylesheet" type="text/css" href="css/noJS.css"/></noscript>
+    		<!--[if lte IE 7]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
  </head>
  <body>
 	<div id="header-wrapper">
@@ -17,9 +21,33 @@
 	  		</nav>
 		</header>
 	</div>
+	<div id="gamma-container">
+ 
+	    <ul class="gamma-gallery">
+	        <li>
+	            <div data-alt="img01" data-description="<h3>Assemblage</h3>" data-max-width="1800" data-max-height="2400">
+	                <div data-src="infographic-0.png" data-min-width="1300"></div>
+	                <div data-src="infographic.png" data-min-width="1000"></div>
+	                <div data-src="infographic.png" data-min-width="700"></div>
+	                <div data-src="images/large/1.jpg" data-min-width="300"></div>
+	                <div data-src="images/medium/1.jpg" data-min-width="200"></div>
+	                <div data-src="images/small/1.jpg" data-min-width="140"></div>
+	                <div data-src="images/xsmall/1.jpg"></div>
+	                <noscript>
+	                    <img src="images/xsmall/1.jpg" alt="img01"/>
+	                </noscript>
+	            </div>
+	        </li>
+	        <li> <!-- ... --> </li>
+	        <!-- ... -->
+	    </ul>
+ 
+	    <div class="gamma-overlay"></div>
+ 
+	</div>
 <div id="projects">	
 	<article id= "project1">
-		<a href="project1.html"><img src="infographic.png" alt="project1" onmouseover="this.src='infographic3.png'" onmouseout="this.src='infographic.png'"></a>
+		<a href="project1.html"><img src="infographic-01.png" alt="project1" onmouseover="this.src='infographic-02.png'" onmouseout="this.src='infographic-01.png'"></a>
 	</article>
 	<article id= "project2">
 		<a href="project2.html"><img src="ligatureposter.jpg" alt="project1" onmouseover="this.src='ligatureposter2.jpg'" onmouseout="this.src='ligatureposter.jpg'"></a>
@@ -46,4 +74,40 @@
 
 </div>
 </body>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="js/jquery.masonry.min.js"></script>
+		<script src="js/jquery.history.js"></script>
+		<script src="js/js-url.min.js"></script>
+		<script src="js/jquerypp.custom.js"></script>
+		<script src="js/gamma.js"></script>
+		<script type="text/javascript">
+     
+	    $(function() {
+ 
+	        var GammaSettings = {
+	                // order is important!
+	                viewport : [ {
+	                    width : 1200,
+	                    columns : 5
+	                }, {
+	                    width : 900,
+	                    columns : 4
+	                }, {
+	                    width : 500,
+	                    columns : 3
+	                }, { 
+	                    width : 320,
+	                    columns : 2
+	                }, { 
+	                    width : 0,
+	                    columns : 2
+	                } ]
+	        };
+ 
+	        Gamma.init( GammaSettings );
+ 
+	    });
+ 
+	</script>
+		
 </html>
