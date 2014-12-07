@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	  <title>Stephanie Higgins</title>
+	  	  <link rel="stylesheet" href="final.css" type="text/css" media="screen">
+            <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    		<script src="js/modernizr.custom.70736.js"></script>
+    		<noscript><link rel="stylesheet" type="text/css" href="css/noJS.css"/></noscript>
+    		<!--[if lte IE 7]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
+ </head>
+ <body>
+	<div id="header-wrapper">
+	<header id="header">
+		<div class="logo">
+			<a href="index.html"><img src="ME.png" alt="logo">
+	  		<nav id="menu">
+	  			<ul>
+					<li><a href="index.html">PORTFOLIO</a></li>
+	  				<li><a href="about.html">ABOUT</a></li>
+				</ul>
+	  		</nav>
+		</header>
+	</div>
+	<div class="gamma-container gamma-loading" id="gamma-container">
+
+	    <ul class="gamma-gallery">
+	        <li>
+	            <div data-alt="img01" data-description="<h3infrographic</h3>" data-max-width="1800" data-max-height="2400">
+	                <div data-src="infographic-02.png" data-min-width="1300"></div>
+	                <div data-src="infographic-02.png" data-min-width="1000"></div>
+	                <div data-src="infographic-02.png" data-min-width="700"></div>
+	                <div data-src="infographic-02.png" data-min-width="300"></div>
+	                <div data-src="infographic-02.png" data-min-width="200"></div>
+	                <div data-src="infographic-02.png" data-min-width="140"></div>
+	                <div data-src="infographic-02.png"></div>
+	                <noscript>
+	                    <img src="infographic-02.png" alt="img01"/>
+	                </noscript>
+	            </div>
+	        </li>
+ 
+	    <div class="gamma-overlay"></div>
+ 
+	</div>
+<div id="projects">	
+	<article id= "project1">
+		<a href="project1.html"><img src="infographic-01.png" alt="project1" onmouseover="this.src='infographic-02.png'" onmouseout="this.src='infographic-01.png'"></a>
+	</article>
+	<article id= "project2">
+		<a href="project2.html"><img src="ligature_poster.jpg" alt="project1" onmouseover="this.src='ligature_poster2.png'" onmouseout="this.src='ligature_poster.jpg'"></a>
+	</article>
+	<article id= "project3">
+		<a href="project3.html"><img src="postcards6.jpg" alt="project1" onmouseover="this.src='postcards6.2.jpg'" onmouseout="this.src='postcards6.jpg'"></a>
+	</article>
+	<article id= "project4">		
+		<a href="project4.html"><img src="higgins_stephanie_poster_1a.jpg" alt="project4"></a>
+		<a href="project4.html"><img src="higgins_stephanie_poster_1b.jpg" alt="project4"></a>
+	</article>
+	<article id= "project5">
+		<a href="project5.html"><img src="moon.png" alt="project5"></a>
+	</article>
+		<article id= "project6">
+			<a href="project6.html"><img src="booklet.jpg" alt="project6"></a>
+		</article>
+	<article id= "project7">
+		<a href="project7.html"><img src="hey.png" alt="project7"></a>
+	</article>
+	<article id= "project8">
+		<a href="project8.html"><img src="POSTERS-2.jpg" alt="project8"></a>
+	</article>
+
+</div>
+</body>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="js/jquery.masonry.min.js"></script>
+		<script src="js/jquery.history.js"></script>
+		<script src="js/js-url.min.js"></script>
+		<script src="js/jquerypp.custom.js"></script>
+		<script src="js/gamma.js"></script>
+		<script type="text/javascript">
+     
+	    $(function() {
+ 
+	        var GammaSettings = {
+	                // order is important!
+	                viewport : [ {
+	                    width : 1200,
+	                    columns : 5
+	                }, {
+	                    width : 900,
+	                    columns : 4
+	                }, {
+	                    width : 500,
+	                    columns : 3
+	                }, { 
+	                    width : 320,
+	                    columns : 2
+	                }, { 
+	                    width : 0,
+	                    columns : 2
+	                } ]
+	        };
+ 
+	        Gamma.init( GammaSettings );
+ 
+	    });
+ 
+	</script>
+		
+</html>
