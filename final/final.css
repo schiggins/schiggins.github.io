@@ -158,6 +158,61 @@ margin-bottom:2%;
 }
 
 
+@media screen and (max-width:900px) {
+	#artwork img{
+		width:45%;
+		}
+		
+	#sticky .buttons{
+		display:none;
+	}
+	
+}
+
+@media screen and (max-width:550px) {
+	header {
+		position:fixed;
+		top:0%;
+	    background-color:#FFFFFF;
+		width:100%;
+		height:25%;
+	}
+	#projects img{float:none;
+		width:100%;
+		margin-bottom:5%}
+		
+		#project1{width:100%;
+				margin-top:60%;
+			}
+
+		#project2{width:100%;
+				margin-top:0%;}
+	
+		#logo img{
+		width:20%;
+		}
+		.bodytext {
+			position:fixed;
+			float:none;
+			width:80%;
+			font-family: helvetica;
+			font-size: .7em;
+			margin-top:30%;
+			line-height: 150%;
+			padding-left:10%;
+		}
+		#larger img {
+			width:70%;
+			padding-left:15%;
+			padding-right:15%;
+			padding-bottom:5%;
+		}
+		#larger {margin-top:50px;}
+		
+	
+}
+
+
 
 
 
